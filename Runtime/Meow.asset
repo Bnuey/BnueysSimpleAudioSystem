@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Meow
   m_EditorClassIdentifier: 
   Clips:
-  - {fileID: 0}
+  - {fileID: 8300000, guid: a0a2cccdbe0f7db45bf4df9c67da815a, type: 3}
   Volume: 1
-  MinPitch: 0.9
+  MinPitch: 0.8
   MaxPitch: 1.2
